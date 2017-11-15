@@ -1,0 +1,10 @@
+	form#monform div label::after {
+		content: ' : ';
+	}
+	.location 
+{color: orange;
+
+style = font-family:Arial; 
+font-style:italic;
+
+}
